@@ -5,7 +5,7 @@ function App() {
     
     return (
         <div>
-            <h1>Becca Smith</h1>
+            <p>Hi! I'm Becca Smith</p>
         </div>
     )
 }
