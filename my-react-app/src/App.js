@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Ensure you are importing 'Routes' and 'Route' correctly
 
 import Home from './components/Home.js';
@@ -6,8 +6,12 @@ import About from './components/About.js';
 import Contact from './components/Contact.js';
 import Work from './components/Work.js';
 
-const App = () => {
-  return (
+class App extends Component {
+  componentDidMount() {
+    document.title = 'Becca Smith';
+  }
+
+  render() { return (
     <Router>
       <div>
         <div className="top">
@@ -24,5 +28,5 @@ const App = () => {
     </Router>
   );
 };
-
+}
 export default App;
