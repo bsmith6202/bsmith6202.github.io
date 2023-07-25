@@ -17,7 +17,7 @@ const About = () => {
         <hr />
             <h1 className="abouttitle"> ABOUT ME</h1>
             <div className="abt">
-                <br />I am a junior at the University of Pennsylvania studying Philosophy and Computer Science. I am passionate about political philosophy and especially interested in the intersection of ethics and technology. I am fascinated by artificial intelligence and hope to work in AI research some day.
+                <br />I am a senior at the University of Pennsylvania studying Philosophy and Computer Science. I am passionate about political philosophy and especially interested in the intersection of ethics and technology. I am fascinated by artificial intelligence and hope to work in AI research some day.
                 <br /><br/>I am a head teaching assistant for <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/">CIS1100</a>, the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I love being able to share my excitement with first-time coders!
                 <br /><br/>This past summer I was a software engineer intern with <a className="inlink" href="https://www.publicissapient.com">Publicis Sapient</a>, a digital transformation consulting company where I worked on a full-stack development intern project. We implemented 
                 an AI chat-bot utilizing React, Python, and SQL on the backend. 
