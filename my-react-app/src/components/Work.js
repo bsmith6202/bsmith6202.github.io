@@ -21,7 +21,7 @@ const Work = () => {
     { title: "The Demise of Social Contract Theory (Fall 2021)", file: contract },
     { title: "A Libertarian Argument for Slavery Reparations (Fall 2021)", file: reps },
     { title: "An Analysis of the Problem of Unconceived Alternatives (Fall 2021)", file: problem },
-    { title: "Why Feminism is Bad for Men, But Why That Doesn't Matter (Spring 2021)", file: feminist },
+    { title: "How Patriarchy is Bad for Men, But Why That Doesn't Matter (Spring 2021)", file: feminist },
   ];
 
   const handleDownload = (file) => {
