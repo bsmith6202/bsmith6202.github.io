@@ -27,6 +27,9 @@ hr {
     text-decoration:none;
     z-index:2;
     font-size:25px;
+    white-space: nowrap; /* Prevent line breaks */
+      overflow: hidden; 
+      height:30px;
 }
 
 
