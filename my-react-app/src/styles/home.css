@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap');
+
+body {
+    padding-top: 10px;
+    background-color: #ffffff;
+    padding: 5px;
+}
+
+a {
+    color:black;
+    font-size: 25px;
+}
+h1 {
+    color: black;
+    font-family: "Manrope", sans-serif;
+    text-align: right;
+    font-size: 70px;
+    z-index:2;
+}
+
+
+hr {
+    z-index:3;
+}
+
+.link{
+    text-decoration:none;
+    z-index:2;
+    font-size:25px;
+}
+
+
+.link:hover{
+    text-decoration:underline;
+}
+
+.center {
+    display:flex;
+    height:50vh;
+    flex-direction:row;
+    justify-content: center;
+    align-items:center;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.top{
+    font-family: "Manrope", sans-serif;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly ;
+    z-index:-2;
+}
+.title{
+    padding-top:10px;
+    padding:2px;
+    font-family: "Manrope", sans-serif;
+    size: 150%;
+    padding-right:30px;
+    font-size: 50px;
+    z-index:2;
+    font-size: 60px;
+
+}
+hr{
+    margin-top: 40px;
+    color:black;
+    height: 5px;
+    background-color: black;
+}
+.right{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.description{
+    font-size: 25px;
+}
+
+.homelink{
+    font-size:25px;
+    padding:0;
+    margin:0;
+}
+
+@keyframes rotate {
+    0% {
+   transform: rotate(0deg);
+}
+100% {
+   transform: rotate(360deg);
+}
+}
+.out-top {
+animation: rotate 20s linear infinite;
+transform-origin: 13px 25px;
+}
+.in-top {
+animation: rotate 10s linear infinite;
+transform-origin: 13px 25px;
+}
+.out-bottom {
+animation: rotate 25s linear infinite;
+transform-origin: 84px 93px;
+}
+.in-bottom {
+animation: rotate 15s linear infinite;
+transform-origin: 84px 93px;
+}
+
+svg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    opacity: 0.5;
+}
+
+
+.links {
+    background:none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 18px;
+    font-family: "Manrope", sans-serif;
+    z-index:2;
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 1em;
+}
+a:hover {
+    text-decoration: underline;
+}
+a img.icon {
+    display: inline-block;
+    height: 1em;
+    margin: 0 0 -0.1em 0.3em;
+}
