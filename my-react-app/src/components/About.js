@@ -21,7 +21,7 @@ const About = () => {
                 <br /><br/>I am a head teaching assistant for <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/">CIS1100</a>, the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I love being able to share my excitement with first-time coders!
                 <br /><br/>This past summer I was a software engineer intern with <a className="inlink" href="https://www.publicissapient.com">Publicis Sapient</a>, a digital transformation consulting company where I worked on a full-stack development intern project. We implemented 
                 an AI chat-bot utilizing React, Python, and SQL on the backend. 
-                <br/><br/>Summer 2022 I worked as a research assistant for the <a className="inlink" href="https://css.seas.upenn.edu"> CSS Lab at Penn</a>, where I am a part of a research team studying political deliberation and how it impacts affective polarization. 
+                <br/><br/>Summer 2022 I worked as a research assistant for the <a className="inlink" href="https://css.seas.upenn.edu"> CSS Lab at Penn</a>, where I was a part of a research team studying political deliberation and how it impacts affective polarization. 
                 <br/><br/>Outside of class I enjoy running, skiing, exploring Philly with friends, watching stand-up comedy, and playing board games. 
                 <br/><br/>My favorite
                     <br/><b>shows:</b> Friends, New Girl, Grey’s Anatomy, Schitt’s Creek, Parks and Recreation
