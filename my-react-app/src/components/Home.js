@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <body>
 
-<svg preserveAspectRatio="xMidYMid slice" viewBox="10 10 80 80">
+<svg className="homeback" preserveAspectRatio="xMidYMid slice" viewBox="10 10 80 80">
     <defs>
         <style>
 
