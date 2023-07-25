@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bsmith6202.github.io/static/css/main.7647210d.css",
+    "main.css": "/bsmith6202.github.io/static/css/main.d99997f7.css",
     "main.js": "/bsmith6202.github.io/static/js/main.5fc99452.js",
     "static/js/787.bc7d429a.chunk.js": "/bsmith6202.github.io/static/js/787.bc7d429a.chunk.js",
     "static/media/Screen Shot 2022-07-27 at 11.55.00 PM.png": "/bsmith6202.github.io/static/media/Screen Shot 2022-07-27 at 11.55.00 PM.078764533414f99fd4f9.png",
@@ -16,12 +16,12 @@
     "static/media/libertarianforreparation.pdf": "/bsmith6202.github.io/static/media/libertarianforreparation.db8291588af3d6482b09.pdf",
     "static/media/freetuition.pdf": "/bsmith6202.github.io/static/media/freetuition.a9e3ffacd67fcd48286b.pdf",
     "index.html": "/bsmith6202.github.io/index.html",
-    "main.7647210d.css.map": "/bsmith6202.github.io/static/css/main.7647210d.css.map",
+    "main.d99997f7.css.map": "/bsmith6202.github.io/static/css/main.d99997f7.css.map",
     "main.5fc99452.js.map": "/bsmith6202.github.io/static/js/main.5fc99452.js.map",
     "787.bc7d429a.chunk.js.map": "/bsmith6202.github.io/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7647210d.css",
+    "static/css/main.d99997f7.css",
     "static/js/main.5fc99452.js"
   ]
 }
