@@ -22,7 +22,6 @@ const Contact = () => {
         <h1 className="contacttitle">CONTACT ME</h1>
         <div className="contacts">
             <a className="contact" href="mailto:bsmith6202@gmail.com">bsmith6202@gmail.com</a>
-            <a className="contact" href="mailto:beccas@sas.upenn.edu">beccas@sas.upenn.edu</a>
             <a className="contact" href="https://www.linkedin.com/in/becca-smith-/">LinkedIn</a>
             <a className="contact" href="https://github.com/bsmith6202">GitHub</a>
         </div>

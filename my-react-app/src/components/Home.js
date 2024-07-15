@@ -28,9 +28,7 @@ const Home = () => {
 
     <div className="center">
         <div className="right">
-            <h1 className="title"><b>Hi! I'm Becca Smith!</b></h1>
-            <h1 className="description"><a className="homelink" href="https://philosophy.sas.upenn.edu/">Philosophy</a> and <a className="homelink" href="https://www.cis.upenn.edu/">Computer Science</a> student at Penn</h1>
-        </div>
+            <h1 className="title"><b>Hi, I'm Becca Smith!</b></h1> </div>
     </div>
 </body>
   );

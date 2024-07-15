@@ -1,9 +1,9 @@
 import React from 'react';
 import '../styles/about.css';
 import { Link } from 'react-router-dom';
-import pic1 from "../media/Screen Shot 2022-07-27 at 11.54.51 PM.png";
-import pic2 from "../media/Screen Shot 2022-07-27 at 11.54.42 PM.png";
-import pic3 from "../media/Screen Shot 2022-07-27 at 11.55.00 PM.png";
+import pic2 from "../media/Screenshot 2024-07-15 at 1.50.12 PM.png";
+import pic1 from "../media/Screenshot 2024-07-15 at 1.51.04 PM.png";
+import pic3 from "../media/Screenshot 2024-07-15 at 1.51.57 PM.png";
 
 const About = () => {
   return (
@@ -51,6 +51,7 @@ const About = () => {
                 <br/><br/>In free time I enjoy running, skiing, exploring the city with friends, watching stand-up comedy, and playing board games. 
                 <br/><br/>My favorite
                     <br/><b>shows:</b> Friends, New Girl, Grey’s Anatomy, Schitt’s Creek, Parks and Recreation
+                    <br/><b>books:</b> A Brief History of Time, Nickel and Dimed, Jurassic Park, Harry Potter series
                     <br/><b>comedians:</b> Trevor Noah, John Mulaney, Wanda Sykes, Nate Bargatze, Amy Schumer, Bo Burnam
                     <br/><b>games:</b> Chess, Bananagrams, Resistance, <a className="inlink" href="https://www.kenkenpuzzle.com">KenKen</a>
             </div>

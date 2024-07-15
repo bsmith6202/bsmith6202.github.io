@@ -9,18 +9,22 @@ import socialism from '../media/socialismessay.pdf'
 import problem from '../media/unconceivedalternatives.pdf'
 import rolling from '../media/rollingdicecollege.pdf'
 import kant from '../media/kant.pdf'
+import thesis from '../media/bsmith_thesis.pdf'
+import ed from '../media/philofed.pdf'
+
 
 const Work = () => {
 
   const works = [
+    { title: `An Ethical Turing Test: Analyzing Structural Injustice in Algorithmic Fairness Measures (Spring 2024, Philosophy Honors Thesis)`, file: thesis},
+    { title: "An Individualized Approach to University-Community Partnerships (Fall 2023)", file: ed},
     { title: "Free Will in Kant's 'Critique' (Spring 2023)", file: kant },
-    { title: "A Luck Egalitarian View of Higher Education (Fall 2022)", file: rolling },
+    { title: "A Luck Egalitarian View of Higher Education  (Fall 2022, winner of Flower Essay Prize)", file: rolling },
     { title: "A Defense of 'Why Not Socialism' (Spring 2022)", file: socialism },
     
     { title: "An Argument for Free College Tuition (Fall 2021)", file: college },
     { title: "The Demise of Social Contract Theory (Fall 2021)", file: contract },
     { title: "A Libertarian Argument for Slavery Reparations (Fall 2021)", file: reps },
-    { title: "An Analysis of the Problem of Unconceived Alternatives (Fall 2021)", file: problem },
     { title: "How Patriarchy is Bad for Men, But Why That Doesn't Matter (Spring 2021)", file: feminist },
   ];
 
