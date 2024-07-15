@@ -26,12 +26,29 @@ const About = () => {
         <hr />
             <h1 className="abouttitle"> ABOUT ME</h1>
             <div className="abt">
-                <br />I am a senior at the University of Pennsylvania studying Philosophy and Computer Science. I am passionate about political philosophy and especially interested in the intersection of ethics and technology. I am fascinated by artificial intelligence and hope to work in AI research some day.
-                <br /><br/>I am a head teaching assistant for <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/">CIS1100</a>, the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I love being able to share my excitement with first-time coders!
-                <br /><br/>This past summer I was a software engineer intern with <a className="inlink" href="https://www.publicissapient.com">Publicis Sapient</a>, a digital transformation consulting company where I worked on a full-stack development intern project. We implemented 
+
+                <br />
+                Hi, I'm Becca! I will be receiving my <a className="inlink" href="https://www.lcfi.ac.uk/education/mphil">MPhil in Ethics of AI, Data, and Algorithms</a> from the University 
+                of Cambridge in June 2025.
+                I graduated University of Pennsylvania summa cum laude in May 2024 with a double major in <a className="inlink" href="https://cis.upenn.edu">Computer and Information Science </a> 
+                 and <a className="inlink" href="https://philosophy.sas.upenn.edu/research/philosophy-science">Philosophy of Science.</a>  
+                < br/>
+                < br/>
+                 I am passionate about moral philosophy and especially interested in the intersection of ethics and technology as it relates to algorithmic fairness and machine learning bias. I'm hoping to work with AI / AI research in the future.
+                <br /><br/>Throughout college I was a head teaching assistant for 
+                <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/"> CIS1100</a>, 
+                the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I loved being able to share my excitement with first-time coders!
+                <br /><br/>This summer (2024) I work as a software engineer intern for  
+                <a className="inlink" href="https://dsdrenewables.com/"> DSD Renewables</a> at their NYC office
+                 where I work on data visualizations.  
+                
+                <br /><br/>Summer 2023 I was a software engineer intern with 
+                <a className="inlink" href="https://www.publicissapient.com"> Publicis Sapient</a>,
+                 a digital transformation consulting company where I worked on a full-stack development intern project.
+                  We implemented 
                 an AI chat-bot utilizing React, Python, and SQL on the backend. 
                 <br/><br/>Summer 2022 I worked as a research assistant for the <a className="inlink" href="https://css.seas.upenn.edu"> CSS Lab at Penn</a>, where I was a part of a research team studying political deliberation and how it impacts affective polarization. 
-                <br/><br/>Outside of class I enjoy running, skiing, exploring Philly with friends, watching stand-up comedy, and playing board games. 
+                <br/><br/>In free time I enjoy running, skiing, exploring the city with friends, watching stand-up comedy, and playing board games. 
                 <br/><br/>My favorite
                     <br/><b>shows:</b> Friends, New Girl, Grey’s Anatomy, Schitt’s Creek, Parks and Recreation
                     <br/><b>comedians:</b> Trevor Noah, John Mulaney, Wanda Sykes, Nate Bargatze, Amy Schumer, Bo Burnam
