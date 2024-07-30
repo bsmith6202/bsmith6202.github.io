@@ -34,7 +34,7 @@ const About = () => {
                  and <a className="inlink" href="https://philosophy.sas.upenn.edu/research/philosophy-science">Philosophy of Science.</a>  
                 < br/>
                 < br/>
-                 I am passionate about moral philosophy and especially interested in the intersection of ethics and technology as it relates to algorithmic fairness and machine learning bias. I'm hoping to work with AI / AI research in the future.
+                 I am passionate about moral philosophy and especially interested in the intersection of ethics and technology as it relates to algorithmic fairness and machine learning bias. I also am fascinated by computer science theory. 
                 <br /><br/>Throughout college I was a head teaching assistant for 
                 <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/"> CIS1100</a>, 
                 the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I loved being able to share my excitement with first-time coders!
