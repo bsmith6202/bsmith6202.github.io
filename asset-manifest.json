@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0623b6f4.css",
-    "main.js": "/static/js/main.92ac0c6f.js",
+    "main.js": "/static/js/main.58b2bdd0.js",
     "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
     "static/media/Screenshot 2024-07-15 at 1.51.04 PM.png": "/static/media/Screenshot 2024-07-15 at 1.51.04 PM.8b3f16a95589b8b4ebfa.png",
     "static/media/Screenshot 2024-07-15 at 1.50.12 PM.png": "/static/media/Screenshot 2024-07-15 at 1.50.12 PM.f4c9a261fbfb4cb4cb3c.png",
@@ -19,11 +19,11 @@
     "static/media/freetuition.pdf": "/static/media/freetuition.a9e3ffacd67fcd48286b.pdf",
     "index.html": "/index.html",
     "main.0623b6f4.css.map": "/static/css/main.0623b6f4.css.map",
-    "main.92ac0c6f.js.map": "/static/js/main.92ac0c6f.js.map",
+    "main.58b2bdd0.js.map": "/static/js/main.58b2bdd0.js.map",
     "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0623b6f4.css",
-    "static/js/main.92ac0c6f.js"
+    "static/js/main.58b2bdd0.js"
   ]
 }
