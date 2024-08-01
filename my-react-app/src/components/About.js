@@ -30,7 +30,7 @@ const About = () => {
                 <br />
                 Hi, I'm Becca! I will be receiving my <a className="inlink" href="https://www.lcfi.ac.uk/education/mphil">MPhil in Ethics of AI, Data, and Algorithms</a> from the University 
                 of Cambridge in June 2025.
-                I graduated University of Pennsylvania summa cum laude in May 2024 with a double major in <a className="inlink" href="https://cis.upenn.edu">Computer and Information Science </a> 
+                I graduated from the University of Pennsylvania summa cum laude in May 2024 with a double major in <a className="inlink" href="https://cis.upenn.edu">Computer and Information Science </a> 
                  and <a className="inlink" href="https://philosophy.sas.upenn.edu/research/philosophy-science">Philosophy of Science.</a>  
                 < br/>
                 < br/>
