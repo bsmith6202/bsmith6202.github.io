@@ -38,7 +38,7 @@ const About = () => {
                 <br /><br/>Throughout college I was a head teaching assistant for 
                 <a className="inlink" href="https://www.seas.upenn.edu/~cis110/current/"> CIS1100</a>, 
                 the introductory CIS course in Java at Penn. This is the course that first got me excited about computer science so I loved being able to share my excitement with first-time coders!
-                <br /><br/>This summer (2024) I work as a software engineer intern for  
+                <br /><br/>Last summer (2024) I work as a software engineer intern for  
                 <a className="inlink" href="https://dsdrenewables.com/"> DSD Renewables</a> at their NYC office
                  where I work on data visualizations.  
                 
